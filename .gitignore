@@ -49,7 +49,6 @@ Layouts.xml
 Log/*
 Logs/*.log
 nsight_profiler.cfg
-Operators/*
 Operators/Cache/*
 Operators/descript.ion
 OperatorTester/obj/*
@@ -82,3 +81,4 @@ UITests/obj/*
 /assets-shot
 /assets-moire
 /assets-vj
+/.gitignore~
